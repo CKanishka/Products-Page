@@ -1,0 +1,41 @@
+.article-container{
+    background:#f9f9f9;
+    text-align:left;
+    padding: 5px 0 10px 25px;
+    margin-bottom:30px
+}
+
+.article-container h5{
+    color:#04d6cb;
+    margin-bottom:3px
+}
+
+.article-desc{
+    color:rgb(161, 156, 156);
+    font-size: 15px;
+    max-width: 62%;
+    line-height:20px;
+}
+a:link{
+    color:currentColor
+}
+a:hover {
+    color: #04d6cb
+  }
+
+.button-excel{
+  background-color: #f9f9f9;
+  border: 2px solid #04d6cb;
+  border-radius:8px;
+  color: #04d6cb;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold
+}  
+.button-excel:hover{
+    background-color: #04d6cb;
+    color:white;
+}

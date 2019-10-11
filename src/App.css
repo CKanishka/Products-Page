@@ -1,22 +1,32 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #09d3ac;
-}
+    .header {
+        height: auto;
+        margin-left:130px;
+        padding-left: 70px;
+        box-shadow: 0 3px 6px -7px black;  
+    }
+  
+  /* Column container */
+  .row {  
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  /* Create two unequal columns that sits next to each other */
+  /* Sidebar/left column */
+  .side {
+    margin-left:130px;
+    padding-left: 70px;
+  }
+  
+  /* Main column */
+  .main {
+    margin-top: 10px; 
+    margin-right:130px; 
+    flex: 70%;
+    background-color: white;
+    padding: 20px;
+    font-family:'Calibri Light';
+    font-size: 25px;
+    
+  }
+  

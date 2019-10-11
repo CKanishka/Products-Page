@@ -1,0 +1,27 @@
+.social_footer_container{
+    text-align: center;
+    margin-top: 100px
+}
+.social_footer{
+    display: inline-block;
+}
+.social_icon{
+    color:gray;
+    padding:20px;
+}
+.tw:hover{
+    color: #4099FF;
+    cursor: pointer;
+}
+.fa:hover{
+    color: #3B5998;
+    cursor: pointer;
+}
+.li:hover{
+    color:#0e76a8;
+    cursor: pointer;
+}
+.in:hover{
+    color:#8a3ab9;
+    cursor: pointer;
+}
