@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Products-Page/static/css/main.2b30e3a1.chunk.css",
+    "main.js": "/Products-Page/static/js/main.d702873e.chunk.js",
+    "main.js.map": "/Products-Page/static/js/main.d702873e.chunk.js.map",
+    "runtime-main.js": "/Products-Page/static/js/runtime-main.084a9f92.js",
+    "runtime-main.js.map": "/Products-Page/static/js/runtime-main.084a9f92.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Products-Page/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.42a40c4a.chunk.js": "/Products-Page/static/js/2.42a40c4a.chunk.js",
+    "static/js/2.42a40c4a.chunk.js.map": "/Products-Page/static/js/2.42a40c4a.chunk.js.map",
+    "index.html": "/Products-Page/index.html",
+    "precache-manifest.0c19a630f4735a21a90ec81d6aab5e18.js": "/Products-Page/precache-manifest.0c19a630f4735a21a90ec81d6aab5e18.js",
+    "service-worker.js": "/Products-Page/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Products-Page/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.2b30e3a1.chunk.css.map": "/Products-Page/static/css/main.2b30e3a1.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.084a9f92.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.42a40c4a.chunk.js",
+    "static/css/main.2b30e3a1.chunk.css",
+    "static/js/main.d702873e.chunk.js"
+  ]
+}
